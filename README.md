@@ -18,6 +18,4 @@
 
 ## Скачать SovelyAutoclicker
 
-![Github - Downloads](https://img.shields.io/github/downloads/zSynctic/Autoclicker/total?label=Github%20Downloads)
-
-
+[![Sac](https://img.shields.io/github/v/release/brleol/SovelyAutoclicker?label=Скачать%20последний%20релиз&color=green)](https://github.com/brleol/SovelyAutoclicker/releases/latest)
