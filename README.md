@@ -1,8 +1,7 @@
 # SovelyAutoclicker – простой автокликер, написанный на VLang
 
-***1.0.2***
-![[screenshot.png]]
-*Интерфейс SAC*
+***1.0.2*** Интерфейс <br>
+![Интерфейс SAC](github/screenshot.png)
 
 ## Об SAC
 
